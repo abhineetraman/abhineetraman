@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... programming 
 - 🌱 I’m currently learning ...java and python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...facebook Abhineet Raman
+- 📫 How to reach me ...instagram @_abhineetraman
 
 <!---
 abhineetraman/abhineetraman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
